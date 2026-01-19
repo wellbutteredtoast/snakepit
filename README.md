@@ -33,25 +33,25 @@ This creates **your own copy** of the repository, where it is safe to make chang
 
 1. Clone your fork:
 
-   ```sh
-   git clone https://github.com/<your-username>/snakepit.git
-   ```
+```sh
+git clone https://github.com/<your-username>/snakepit.git
+```
 2. Add your game files to the `games` directory.
 3. Stage your changes:
 
-   ```sh
-   git add .
-   ```
+```sh
+git add .
+```
 4. Commit your changes:
 
-   ```sh
-   git commit -m "Add new game"
-   ```
+```sh
+git commit -m "Add new game"
+```
 5. Push the changes to your fork:
 
-   ```sh
-   git push
-   ```
+```sh
+git push
+```
 
 ---
 
@@ -72,7 +72,7 @@ If you encounter issues uploading files or creating a pull request, please conta
 
 ## Using the Application
 
-Download the repository by clicking the **<> Code** button and selecting **Download ZIP**.
+Download the repository by clicking the **<> Code** button and selecting **Download ZIP**. \
 After extracting the files, run `main.py` using your preferred terminal or Python environment.
 
 ---
