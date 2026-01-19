@@ -7,6 +7,7 @@ import score
 from games.game1 import game1
 from games.game2 import game2
 from games.game3 import game3
+from games.asteroids.game import muncss_entry
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
@@ -32,6 +33,7 @@ def main():
         {"name": "Red Clicker", "module": game1},
         {"name": "Blue Clicker", "module": game2},
         {"name": "Green Clicker", "module": game3},
+        {"name": "Asteroids", "module": muncss_entry},
     ]
 
     menu_state = {
