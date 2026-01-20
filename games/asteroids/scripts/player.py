@@ -1,6 +1,5 @@
 import pygame
 import math
-from sys import exit
 from time import sleep
 
 # This covers both the players functionality and also the bullets the player can fire.

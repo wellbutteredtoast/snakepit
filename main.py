@@ -33,7 +33,7 @@ def main():
         {"name": "Red Clicker", "module": game1},
         {"name": "Blue Clicker", "module": game2},
         {"name": "Green Clicker", "module": game3},
-        {"name": "Asteroids", "module": asteroids.game_init},
+        {"name": "Asteroids", "module": asteroids},
     ]
 
     menu_state = {
